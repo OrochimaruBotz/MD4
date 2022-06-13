@@ -10,7 +10,7 @@
  <a href="#"><img title="NahBotz" src="https://img.shields.io/badge/NAH-BOTZ-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Nakataaard"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Kanna-blue.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Nakataaard"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Nakata-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
 <a href="https://github.com/Nakataaard/MD4/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Nakataaard/MD4?label=Forks&color=blue&style=flat-square"></a>
 <a href="https://github.com/Nakataaard/MD4/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/Nakataaard/MD4?label=Watchers&color=green&style=flat-square"></a>
