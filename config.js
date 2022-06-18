@@ -54,8 +54,8 @@ global.snh = 'https://nhentai.net/g/365296/'
 global.pdana = '085748894171'
 global.povo = '085748894171'
 global.pgopay = '085748894171'
-global.ppulsa = '085162634171'
-global.ppulsa2 = '085748894171'
+global.ppulsa = '085748894171'
+global.ppulsa2 = '085162634171'
 global.psaweria = 'https://saweria.com/nakata'
 
 /*============== NOMOR ==============*/
