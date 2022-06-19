@@ -10,6 +10,7 @@
 // • Kannachann
 // • The.Sad.Boy01
 // • Rasel comel
+// • ArullOfc
 // • Xtreshe (Beban)
 // • Dll
 
@@ -44,33 +45,33 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/nakataa1.a'
-global.sgh = 'https://github.com/Nakataaard'
-global.sgc = 'https://chat.whatsapp.com/HrmHALYnHsxIwAIbftmdLr'
-global.sdc = 'https://discord.gg/WEJQjugTY7'
-global.snh = 'https://nhentai.net/g/365296/'
+global.sig = 'https://instagram.com/sahrulwara_____'
+global.sgh = ''
+global.sgc = 'https://chat.whatsapp.com/Hs5rHr27xu49VRLgdliMfR'
+global.sdc = 'https://youtu.be/tH-0Uq_s_H4'
+global.snh = 'https://youtu.be/tH-0Uq_s_H4'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085748894171'
-global.povo = '085748894171'
-global.pgopay = '085748894171'
-global.ppulsa = '085748894171'
-global.ppulsa2 = '085162634171'
-global.psaweria = 'https://saweria.com/nakata'
+global.pdana = '085822347348'
+global.povo = ''
+global.pgopay = ''
+global.ppulsa = '085822347348'
+global.ppulsa2 = '083843192208'
+global.psaweria = ''
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285162634171'
-global.nomorown = '6285748894171'
-global.namebot = 'NahBotz'
-global.nameown = 'Nakata - San'
+global.nomorbot = '6281348735630'
+global.nomorown = '6285822347348'
+global.namebot = 'ArullBotzMD'
+global.nameown = 'ArullOfc'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283143393763'],
-  ['6285712420674'],
-  ['18126338970'],
-  ['6285748894171', 'NAKATA ! 🐰', true]
+  ['6285822347348'],
+  ['6285822347348'],
+  ['6285822347348'],
+  ['6285822347348', 'ArullOfc ! 🐰', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -116,13 +117,13 @@ global.APIKeys = { // APIKey Here
 
 /*============== WATERMARK ==============*/
 //GANTI SETERAH MU
-global.wm = '                「 NahBotz- 今、 」' //Main Watermark
-global.wm2 = 'NahBotz -- MultiDevice'
-global.wm3 = '⫹⫺ Nahh *BOTZ*'
+global.wm = '                「 ArullBotzMD- 今、 」' //Main Watermark
+global.wm2 = 'ArullBotzMD'
+global.wm3 = '⫹⫺ ArullBotzMD'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = '🌱 ┊ 𝗥𝗣𝗚 Whatsapp ʙᴏᴛ'
-global.author = '                「 NahBotz- 今⁩ 」'
+global.author = '                「 ArullBotzMD 今⁩ 」'
 
 
 /*============== LOGO ==============*/
