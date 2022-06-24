@@ -12,6 +12,7 @@
 // • Rasel comel
 // • ArullOfc
 // • Xtreshe (Beban)
+// • ArullOfc
 // • Dll
 
 //[!] Jangan Dihapus, mending ditambahin 
@@ -57,7 +58,7 @@ global.povo = ''
 global.pgopay = ''
 global.ppulsa = '085822347348'
 global.ppulsa2 = '083843192208'
-global.psaweria = ''
+global.psaweria = 'https://saweria.co/arullOfc'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6281348735630'
