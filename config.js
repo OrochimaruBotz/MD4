@@ -46,33 +46,33 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/sahrulwara_____'
+global.sig = '-'
 global.sgh = ''
 global.sgc = 'https://chat.whatsapp.com/Hs5rHr27xu49VRLgdliMfR'
 global.sdc = 'https://youtu.be/tH-0Uq_s_H4'
 global.snh = 'https://youtu.be/tH-0Uq_s_H4'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085822347348'
+global.pdana = '088804947282'
 global.povo = ''
 global.pgopay = ''
-global.ppulsa = '085822347348'
-global.ppulsa2 = '083843192208'
-global.psaweria = 'https://saweria.co/arullOfc'
+global.ppulsa = '088804947282'
+global.ppulsa2 = '-'
+global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281348735630'
-global.nomorown = '6285822347348'
-global.namebot = 'ArullBotzMD'
-global.nameown = 'ArullOfc'
+global.nomorbot = '62888049472820'
+global.nomorown = '6288804947282'
+global.namebot = 'gojoBotzMD'
+global.nameown = 'Humanz'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285822347348'],
-  ['6285822347348'],
-  ['6285822347348'],
-  ['6285822347348', 'ArullOfc ! 🐰', true]
+  ['6288804947282'],
+  ['6288804947282'],
+  ['6288804947282'],
+  ['6288804947282', 'Humanz🗿', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -118,13 +118,13 @@ global.APIKeys = { // APIKey Here
 
 /*============== WATERMARK ==============*/
 //GANTI SETERAH MU
-global.wm = '                「 ArullBotzMD- 今、 」' //Main Watermark
-global.wm2 = 'ArullBotzMD'
-global.wm3 = '⫹⫺ ArullBotzMD'
+global.wm = '                「 GojoBotzMD- 今、 」' //Main Watermark
+global.wm2 = 'GojoBotzMD'
+global.wm3 = '⫹⫺ GojoBotzMD'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = '🌱 ┊ 𝗥𝗣𝗚 Whatsapp ʙᴏᴛ'
-global.author = '                「 ArullBotzMD 今⁩ 」'
+global.author = '               「 GojoBotzMD 今⁩ 」'
 
 
 /*============== LOGO ==============*/
@@ -177,8 +177,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = '.'
-global.stickauth = `☂︎\nN\na\nh\nh\nB\nO\nT\nZ\n-\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
+global.stickpack = 'Gojo By'
+global.stickauth = `☂︎Humanz`
 
 global.multiplier = 38 // The higher, The harder levelup
 
