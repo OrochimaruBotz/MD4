@@ -1,1 +1,2 @@
-web: pm2 start index.js && pm2 save && pm2 logs
+web: node . --server "session.data.json"
+
